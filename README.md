@@ -14,7 +14,7 @@ To get started with this project:
 3. Install the required dependencies.
 4. Download the "DeepGlobe Road Extraction Dataset" and place it in the designated directory.
 5. Open and run the Jupyter Notebook to train and evaluate the model.
-6. 
+
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
 
