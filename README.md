@@ -1,6 +1,6 @@
-# Deep Learning based Road Segmentation using Satellite Imagery
+# Deep Learning based Road Segmentation
 <p align="center">
-  <img src="https://github.com/akhilchibber/Pumpkin-Seed-Classification/blob/main/Pumpkin-Seeds.png?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Road-Segmentation/blob/main/road-segmentation.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Dataset
